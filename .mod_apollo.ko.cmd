@@ -1,0 +1,1 @@
+cmd_/home/doliveira/apollo-module/src/mod_apollo.ko := avr32-linux-ld -r    -o /home/doliveira/apollo-module/src/mod_apollo.ko /home/doliveira/apollo-module/src/mod_apollo.o /home/doliveira/apollo-module/src/mod_apollo.mod.o
