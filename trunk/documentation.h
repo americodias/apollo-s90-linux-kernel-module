@@ -39,9 +39,12 @@
  */
 
 /*! \page Changelog Changelog
- * 12/22/09 - Added the interrupt bit.\n
- *          - Some bugs fixed.
- * 12/19/09 - Initial release
+ * \verbatim
+05/01/10 - Final release (1.0.0)
+12/22/09 - Added the interrupt bit.
+         - Some bugs fixed.
+12/19/09 - Initial release
+\endverbatim
  */
  
 /*! \mainpage
